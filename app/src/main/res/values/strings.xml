@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Iniciar Sesión</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Iniciar Sesión</string>
+    <string name="error_invalid_email">Email no válido</string>
+    <string name="error_invalid_password">La contraseña es demasiado corta</string>
+    <string name="error_incorrect_password">Contraseña Incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_pantalla_principal">PantallaPrincipal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">¡SOLO PREIONAR EN CASO DE eMERGENCIA!</string>
+
+    <string name="botnpresionado">Luego de 3 seg. de contínua presión se notificará a tus contactos.</string>
+    <string name="registrarme">Registrarme</string>
+</resources>
